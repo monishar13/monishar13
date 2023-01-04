@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monisha Ramasamy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from Canada</h3>
+
 
 <h3 align="left">Connect with me: +1 902 338 1455</h3>
 <p align="left">
